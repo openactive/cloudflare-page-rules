@@ -12,5 +12,4 @@ New Cloudflare Page Rules may be proposed via a PR to this repository. Please no
 
 1. Ensures that the JSON-LD version the OpenActive Activity List is maximally cached, to minimise downtime.
 2. Provides a redirect for all static assets previously hosted at the `www` subdomain (noting that the Wordpress Redirection Plugin does not handle binary static assets such as images).
-3. Some external websites still reference the `beta.openactive.io` domain, from a previous version of the OpenActive website. This redirect ensures such references still resolve.
-4. A Gladstone instructional video references "openactive.io/programmes" and does not specify `www`. This redirect ensures that this reference will still resolve.
+3. A Gladstone instructional video references "openactive.io/programmes" and does not specify `www`. This redirect ensures that this reference will still resolve.

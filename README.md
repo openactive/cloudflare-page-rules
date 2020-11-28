@@ -4,7 +4,7 @@ Cloudflare Page Rules in use on the `openactive.io` domain are documented within
 
 ## Contribution
 
-New Cloudflare Page Rules may be proposed via a PR to this repository. Please note that due to their cost the use of Cloudflare Page Rules should be minimised, and where possible [Wordpress Redirection](https://github.com/openactive/website/tree/master/redirection) should be used instead.
+New Cloudflare Page Rules may be proposed via a PR to this repository. Please note that due to their cost the use of Cloudflare Page Rules should be minimised, and where possible [Wordpress Redirection](https://github.com/openactive/website-redirection) should be used instead.
 
 ## Cloudflare Page Rule documentation
 
